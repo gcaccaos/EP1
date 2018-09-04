@@ -24,3 +24,5 @@ Various heuristics and approximation algorithms, which quickly yield good soluti
 ## References
 [1] https://en.wikipedia.org/wiki/Travelling_salesman_problem
 [2] https://www.slideshare.net/kaalnath/comparison-of-tsp-algorithms
+[3] https://pt.slideshare.net/gpolo/reducing-the-time-of-heuristic-algorithms-for-the-symmetric-tsp
+
