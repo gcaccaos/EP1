@@ -30,9 +30,10 @@ Various heuristics and approximation algorithms, which quickly yield good soluti
 * Greedy + 2-Opt
 
 ## References
-[1] https://en.wikipedia.org/wiki/Travelling_salesman_problem
-[2] https://www.slideshare.net/kaalnath/comparison-of-tsp-algorithms
-[3] https://pt.slideshare.net/gpolo/reducing-the-time-of-heuristic-algorithms-for-the-symmetric-tsp
-[4] https://github.com/rohanp/travelingSalesman
-[5] http://www.technical-recipes.com/2012/applying-c-implementations-of-2-opt-to-travelling-salesman-problems/
-[6] https://en.wikipedia.org/wiki/2-opt
+1. https://en.wikipedia.org/wiki/Travelling_salesman_problem
+1. https://www.slideshare.net/kaalnath/comparison-of-tsp-algorithms
+1. https://pt.slideshare.net/gpolo/reducing-the-time-of-heuristic-algorithms-for-the-symmetric-tsp
+1. https://github.com/rohanp/travelingSalesman
+1. http://www.technical-recipes.com/2012/applying-c-implementations-of-2-opt-to-travelling-salesman-problems/
+1. https://en.wikipedia.org/wiki/2-opt
+1. http://on-demand.gputechconf.com/gtc/2014/presentations/S4534-high-speed-2-opt-tsp-solver.pdf
