@@ -21,6 +21,14 @@ Improving these time bounds seems to be difficult. Other approaches include:
 ### Heuristic and approximation algorithms
 Various heuristics and approximation algorithms, which quickly yield good solutions, have been devised. Modern methods can find solutions for extremely large problems (millions of cities) within a reasonable time which are with a high probability just 2–3% away from the optimal solution.
 
+... (TO DO)
+
+## My method
+
+* Exact
+* Greedy
+* Greedy + 2-Opt
+
 ## References
 [1] https://en.wikipedia.org/wiki/Travelling_salesman_problem
 [2] https://www.slideshare.net/kaalnath/comparison-of-tsp-algorithms
